@@ -16,5 +16,5 @@ conda list -e > requirements.txt
 ```shell
 ssh-keygen -f ~/.ssh/<username> 
 ssh-add ~/.ssh/<username>
- pbcopy < ~/.ssh/<username>.pub 
+pbcopy < ~/.ssh/<username>.pub 
 ```
